@@ -14,7 +14,7 @@
 
 Este projeto foi idealizado com o objetivo de aprimorar minha expertise em HTML, CSS e principalmente em GRID, através do suporte e recursos fornecidos pela plataforma Rockeseat.
 
-- [Acesse o projeto](https://galaxies-gamma.vercel.app/)
+- [Acesse o projeto](https://fotoblog-blush.vercel.app/)
 
 ## 🚀 Tecnologias
 
